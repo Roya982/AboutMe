@@ -66,5 +66,7 @@ loveChallenges(challenges);
 meAsk(ask);
 youKnow(know);
 
-alert(userName + (' ..hello agin'))
-console.log(userName, know, ask, me, challenges, back)
+alert(userName + (' ..hello agin'));
+
+console.log(userName, know, ask, me, challenges, back);
+
